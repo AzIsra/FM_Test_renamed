@@ -1,0 +1,6 @@
+type: target-group
+name: IAM_Test
+conditions:
+  - operator: regex
+    property: Username
+    operand: '%foo%'

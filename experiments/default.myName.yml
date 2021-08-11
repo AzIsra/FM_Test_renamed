@@ -1,0 +1,10 @@
+# This file was edited by Cloudbees Feature Management
+type: experiment
+name: my name
+description: 'Experiment: my name'
+flag: default.myName
+availableValues:
+  - Summer
+  - Ryan
+  - Michelle
+value: Ryan
